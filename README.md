@@ -3,7 +3,7 @@
 This project aims to use modern and effective techniques like KNN which groups together the dataset and providing the
 comprehensive and generic approach for recommending wine to the customers on the basis of certain features. 
 This will help the shop owners to already know about the demand of the wine and accordingly the stock will be updated. 
-This will facilitate in increasing the profit of the shop owners.
+This will facilitate in increasing the profit of the shop owners.you can get the dataset from uci repository.
 
 •	k- Nearest Neighbour (k-NN) classification technique:
 
